@@ -1,0 +1,8 @@
+{
+  "realm": "Linkle",
+  "auth-server-url": "https://identity.linkle.io/auth",
+  "ssl-required": "external",
+  "resource": "webcompany-app",
+  "public-client": true,
+  "confidential-port": 0
+}
